@@ -4,7 +4,7 @@
 
 - [Overview of the AirBnB Clone](#overview-of-the-airbnb-clone)
 - [Project Goals](#project-goals)
-- [Features Breakdown](#features-breakdown)
+- [Feature Breakdown](#feature-breakdown)
   - [1. API Documentation](#1-api-documentation)
   - [2. User Authentication](#2-user-authentication)
   - [3. Property Management](#3-property-management)
@@ -55,7 +55,7 @@ The tech stack used for this project includes Django, Django REST, Postgresql, G
 
 **Data Optimization:** Ensure efficient data retrieval and storage through database optimizations.
 
-## Features Breakdown
+## Feature Breakdown
 
 ### 1. API Documentation
 **OpenAPI Standard:** The backend APIs are documented using the OpenAPI standard to ensure clarity and ease of integration.
